@@ -12,3 +12,5 @@ And
 ->Every day we check if access_token is expired or not,
 ->if its expired we generate a new token(access_token)
 ->Later update the token_updated_at, and token_expiry_time for the same.
+
+FastAPI is used to create CRUD application and the same is deployed on docker.
